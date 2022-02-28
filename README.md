@@ -10,6 +10,14 @@ Program ini akan menggunakan pendekatan algoritma Divide and Conquer dalam menca
 
 ## How to run
 
+### Requirments
+1. Python, dapat didownload di https://www.python.org/
+2. Python library: numpy, pandas, matplotlib, sklearn. Dapat didownload menggunakan python package installer (pip) dengan menggunakan command:
+```
+  pip install <nama_library>
+```
+
+### Cara menjalankan program
 Untuk menjalankan program dapat dilakukan dengan melakukan instalasi extension Python dan Jupyter pada VS Code dan mengeklik tombol "Run Cell" yang muncul pada file main.py
 atau dapat juga dilakukan dengan mengubah tipe file main.py menjadi main.ipynb dan menjalankannya menggunakan jupyter notebook.
 
